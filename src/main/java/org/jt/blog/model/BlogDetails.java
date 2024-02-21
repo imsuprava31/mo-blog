@@ -1,4 +1,4 @@
-package org.jt.blog;
+package org.jt.blog.model;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
